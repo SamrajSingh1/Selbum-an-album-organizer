@@ -1,0 +1,41 @@
+
+{
+  "project_info": {
+    "project_number": "126795400529",
+    "firebase_url": "https://selbum-default-rtdb.firebaseio.com",
+    "project_id": "selbum",
+    "storage_bucket": "selbum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126795400529:android:2bda9bdc67a93985867f70",
+        "android_client_info": {
+          "package_name": "com.gallery.selbum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126795400529-g842v3kp7u0h4luut3nqkt2vgpssdvjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy0cLwc1P4PPWBlreu9J7AWo8HGfPG1tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126795400529-g842v3kp7u0h4luut3nqkt2vgpssdvjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

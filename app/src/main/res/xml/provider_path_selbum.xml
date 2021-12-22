@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--    <external-path-->
+    <!--        name="storage/emulated/0"-->
+    <!--        path="." />-->
+    <external-cache-path
+        name="external_cache_files"
+        path="." />
+    <external-files-path
+        name="external_files"
+        path="." />
+    <external-path
+        name="external"
+        path="." />
+    <root-path
+        name="external_files"
+        path="/storage/" />
+    <files-path
+        name="files"
+        path="." />
+</paths>
